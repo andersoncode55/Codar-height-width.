@@ -1,4 +1,4 @@
-<h1 align="center"> Height-Width.. </h1>
+<h1 align="center"> Height-Width. </h1>
 
 ## 🔗 Índice
 * [🎯 Objetivo](#-objetivo)
